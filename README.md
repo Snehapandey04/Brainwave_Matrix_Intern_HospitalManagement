@@ -39,7 +39,6 @@ The **Hospital Management System** is a web-based application built using Java S
 
 ##  Screenshot
 
-Below is a screenshot of the `BankAccount` class where core ATM functionalities such as deposit and withdraw methods are implemented.
 
 ![Hospital Management System](./assets/Screenshot1hm.png)
 
